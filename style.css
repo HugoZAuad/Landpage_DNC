@@ -89,6 +89,7 @@
 
 #seta-esquerda{
     display: none;
+    padding: 50px;
 }
 
 #Bruna{
@@ -98,6 +99,7 @@
 .seta{
     margin-top: 55px;
     cursor: pointer;
+    justify-content: center;
 }
 
 .seta:hover{
