@@ -68,3 +68,6 @@ A lógica do projeto é implementada em um arquivo JavaScript separado. As princ
 ## Conclusão
 
 Esta página da web é uma aplicação simples, mas eficaz, que demonstra como apresentar informações de forma clara e interativa. É uma boa base para quem deseja aprender mais sobre desenvolvimento web e design de interfaces.
+
+## Deploy
+- https://landpage-dnc.vercel.app
